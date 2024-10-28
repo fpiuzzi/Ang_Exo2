@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+
+@import "bootstrap-icons/font/bootstrap-icons.css";
+.navbar-nav {
+  margin-left: auto; /* Ensures the nav items are pushed to the far right */
+}
+.navbar {
+  padding-right: 30px; /* Adjust the padding if needed to align to the edge */
+}
